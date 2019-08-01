@@ -35,4 +35,4 @@ Have a feature you would love to see? Submit a ticket with the `Feature Request`
     
 
 ## Code of Conduct
-Please respect our [Code of Conduct]() in all interactions, including ticket submission and pull request conversations.
+Please respect our [Code of Conduct](https://github.com/overture-stack/.github/blob/master/CODE_OF_CONDUCT.md) in all interactions, including ticket submission and pull request conversations.
