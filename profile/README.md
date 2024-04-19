@@ -1,7 +1,7 @@
 # Build, Deploy, Discover
 
 <div>
-<img align=left width="120vw" src="Overture-logo.png" alt="arranger-logo"/>
+<img align=left width="120vw" src="https://raw.githubusercontent.com/overture-stack/.github/master/profile/Overture-logo.png" alt="overture-logo"/>
 </div>
 
 **Overture** is a collection of open-source software used to overcome significant
@@ -12,7 +12,7 @@ healthcare, and patient communities collaborate and advance genomic research by
 providing cutting-edge open source software solutions.
 
 <div>
-<img width="100%" src="portalOverview2.0.webp" alt="arranger-logo"/>
+<img width="100%" src="https://raw.githubusercontent.com/overture-stack/.github/master/profile/portalOverview2.0.webp" alt="portal-overview"/>
 </div>
 
 - **Genome informatics first:** You can use our solutions for anything, but here
