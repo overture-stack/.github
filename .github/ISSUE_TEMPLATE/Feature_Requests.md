@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature Requests
 about: Suggest a feature request for Overture
 ---
 
