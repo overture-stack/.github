@@ -35,8 +35,7 @@ providing cutting-edge open source software solutions.
   components for cloud infrastructure, data shepherding, and analysis.
 
 As an open-source project, we are continuously refining our software and are
-**[open to contributions](https://github.com/overture-stack/.github/blob/master/CONTRIBUTING.md)** and **[feedback](https://github.com/overture-stack/.github/issues/new?template=feature_requests.md
-)** from
+**[open to contributions](https://github.com/overture-stack/.github/blob/master/CONTRIBUTING.md)** and **[feedback](https://github.com/overture-stack/roadmap/issues/new?assignees=&labels=&projects=&template=Feature_Requests.md)** from
 the community. We invite you to check out our
 **[development goals](https://github.com/overture-stack/.github/blob/master/ROADMAP.MD)**, and if you wish to contact us
 remotely, **[our Slack channel](https://join.slack.com/t/overture-bio/shared_invite/zt-21tdumtdh-9fP1TFeLepK4~Lc377rOYw)**, like our software, will always be open and
