@@ -1,7 +1,7 @@
 ## Development Goals
 
 <div>
-<img align=right width="50%" src="roadmapillustration2.webp" alt="oveture_devs"/>
+<img align=right width="50%" src="https://raw.githubusercontent.com/overture-stack/.github/master/profile/roadmapillustration2.webp" alt="oveture_devs"/>
 </div>
 
 The following is a non-exhaustive, alphabetized list of Overture development
