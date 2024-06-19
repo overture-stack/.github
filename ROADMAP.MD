@@ -60,7 +60,7 @@ Please ensure your code adheres to the following guidelines before submission:
 
 We use GitHub issues and pull requests for communication-related to code
 changes. For general discussion, feel free to join our
-[Slack channel](http://slack.overture.bio/).
+[Slack channel](https://overture-bio.slack.com/join/shared_invite/zt-21tdumtdh-9fP1TFeLepK4~Lc377rOYw#/shared-invite/email).
 
 By participating in this project, you are expected to abide by the
 [Code of Conduct](https://github.com/overture-stack/SCORE/blob/readme-update/code_of_conduct.md).
