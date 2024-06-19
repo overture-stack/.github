@@ -1,16 +1,16 @@
 ---
-name: Feature Requests
-about: Suggest a feature request for Overture
+name:  Requests
+about: Overture Request
 ---
 
-### Is your feature request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Summary of request
+Please summarize clearly and concisely what you would like.
 
-### Describe the solution you'd like
-A clear and concise description of what you want to happen.
+## Details
+Provide any details you wish to include with your request (optional) 
 
-### Describe alternatives you've considered
-A clear and concise description of any alternative solutions or features you've considered.
+## Desired solution
+Please describe what the solution looks like to you (optional)
 
-### Additional context
-Add any other context or screenshots about the feature request here.
+## Additional context
+Include any relevant context or screenshots regarding your request here.
