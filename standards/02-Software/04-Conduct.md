@@ -1,4 +1,4 @@
-# Code of Condduct
+# Code of Conduct
 
 All Overture repositories have a `code_of_conduct.md` file stored in the root directory of the project. 
 
