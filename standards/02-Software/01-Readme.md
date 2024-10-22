@@ -13,7 +13,7 @@ What does this component do? Are there any related components (JS client, UI, et
 
 > 
 > <div>
-> <img align="left" src="ov-logo.png" height="90"/>
+> <img align="left" src="ov-logo.png" height="50"/>
 > </div>
 > 
 > *{Component Name} is part of [Overture](https://www.overture.bio/), a collection of open-source software microservices used to create platforms for researchers to organize and share genomics data.*
@@ -41,34 +41,26 @@ The modules in the monorepo are organized into two categories:
 - __packages/__ - Reusable packages shared between applications and other packages. Packages are published to [NPM](https://npmjs.com).
 - __scripts__ - Utility scripts for use within this repo.
 
-## Local development
 
-### Development tools
+## Documentation
+
+Technical resources for those working with or contributing to the project are available from our official documentation site, the following content can also be read and updated within the `/docs` folder of this repository.
+
+- **[Component Name Overview](link)** 
+- [**Setting up the Development Enviornment**](link)
+- [**Common Usage Docs**](link)
+
+## Development Environment
 
 - [PNPM](https://pnpm.io/) Project manager
 - [Node.js](https://nodejs.org/en) Runtime environment (v20 or higher)
 - [VS Code](https://code.visualstudio.com/) As recommended code editor. Plugins recommended: ESLint, Prettier - Code formatter, Mocha Test Explorer, Monorepo Workspace
 
-### System Dependencies
-
-- [Lectern](https://github.com/overture-stack/lectern) Dictionary Management and validation
-- [Postgres Database](https://www.postgresql.org/) For data storage
-
-### Setup
-
-- If the setup is sufficiently simple you may choose to display it here, otherwise link to the detailed setup.md within your /docs folder
-
-## Documentation
-
-- **[Developer Documentation](link):** Technical resources for those working with or contributing to the project, these exists within the `/docs` folder of this repository as well as our [developer docs website](link).
-
-- **[Platform Guides](link):** Targeted towards end-users and administrators looking for information on Overture platform setup, maintenance and usage. 
-
 ## Support & Contributions
 
-- Filing an [issue](https://github.com/overture-stack/{repoName}/issues)
-- Making a [contribution](CONTRIBUTING.md)
-- Connect with us on [Slack](http://slack.overture.bio)
+- For support, feature requests, and bug reports, please see our [Support Guide](https://main--overturedev.netlify.app/community/support).
+
+- For detailed information on how to contribute to this project, please see our [Contributing Guide](https://main--overturedev.netlify.app/docs/contribution).
 
 ## Related Software 
 
@@ -85,6 +77,12 @@ The Overture Platform includes the following Overture Components:
 |[Stage](https://github.com/overture-stack/stage)| A React-based front-data portal UI |
 |[Lyric](https://github.com/overture-stack/lyric)| A data-agnostic tabular data submission system |
 |[Lectern](https://github.com/overture-stack/lectern)| A simple web browser UI that integrates Ego and Arranger |
+
+If you'd like to get started using our platform [check out our quickstart guides](https://main--overturedev.netlify.app/guides/getting-started)
+
+## Funding Acknowledgement
+
+Overture is supported by grant #U24CA253529 from the National Cancer Institute at the US National Institutes of Health, and additional funding from Genome Canada, the Canada Foundation for Innovation, the Canadian Institutes of Health Research, Canarie, and the Ontario Institute for Cancer Research.
 ``````
 
 </details>
