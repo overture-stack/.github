@@ -97,6 +97,6 @@ This standardized README template is broken down as follows:
 
 4. **Documentation**: Links our more detailed developer docs, platform guides, and other resources to help users understand how to work with and configure the software.
 
-5. **Support & Contribution**: Encourages users to get involved by reporting issues, making contributions, and connecting on the Overture Slack channel.
+5. **Support & Contribution**: Encourages users to get involved by reporting issues, making contributions, and connecting on our discussion board.
 
 6. **Related Software**: A table about related Overture components and their descriptions.
