@@ -33,20 +33,104 @@ When adding and editing markdown files within the project repository there are a
 
 - The top level heading (ex. # Top Title) will be used by docusaurus for the sidebar label
 
-- Docusaurus supports [tabs](https://docusaurus.io/docs/markdown-features/tabs), [dropdowns](https://docusaurus.io/docs/markdown-features#details) and [admonitions](https://docusaurus.io/docs/markdown-features/admonitions) however to maintain portability and readability of the raw markdown **we do not recommend using them**.
+- Docusaurus supports codeblocks, [tabs](https://docusaurus.io/docs/markdown-features/tabs), [dropdowns](https://docusaurus.io/docs/markdown-features#details) and [admonitions](https://docusaurus.io/docs/markdown-features/admonitions).
+
+
+    :::tip Using Codeblocks
+
+    - Always reference the language being used
+    - When appropriate use the following syntax to reference the source: 
+        -  `markdown title="website/docs/04-standards/03-guides.md"`
+
+
+    ```markdown title="website/docs/04-standards/03-guides.md"
+    # The title value renders out the code block with the path provided
+    ```
+    :::
+
+- Include callouts for important information using these styles:
+  
+    :::tip
+    **Helpful Tips**
+    Provide additional insights or shortcuts
+    :::
+
+    :::caution
+    **Important Notes**
+    Highlight crucial considerations or potential pitfalls
+    :::
+
+    :::info
+    **Additional Context**
+    Provide supplementary information that adds value
+    :::
+
+- If your page shares the same name as a folder, you can use the DocsCardList component to automatically display card-style links to all files contained within that folder:
+
+    <DocCardList />
+
+- Use dropdowns to condense the page and hide optional or supplemental content
+
+    <details>
+    <summary>**Click here for the markdown code used to write the above examples**</summary>
+
+    ``````
+    ## Markdown formatting 
+
+    When adding and editing markdown files within the project repository there are a few considerations to be made to ensure your files get rendered correctly by docusaurus:
+
+    - The top level heading (ex. # Top Title) will be used by docusaurus for the sidebar label
+
+    - Docusaurus supports codeblocks, [tabs](https://docusaurus.io/docs/markdown-features/tabs), [dropdowns](https://docusaurus.io/docs/markdown-features#details) and [admonitions](https://docusaurus.io/docs/markdown-features/admonitions).
+
+
+        :::tip Using Codeblocks
+
+        - Always reference the language being used
+        - When appropriate use the following syntax to reference the source: 
+            -  `markdown title="website/docs/04-standards/03-guides.md"`
+
+
+        ```markdown title="website/docs/04-standards/03-guides.md"
+        # The title value renders out the code block with the path provided
+        ```
+        :::
+
+    - Include callouts for important information using these styles:
+    
+        :::tip
+        **Helpful Tips**
+        Provide additional insights or shortcuts
+        :::
+
+        :::caution
+        **Important Notes**
+        Highlight crucial considerations or potential pitfalls
+        :::
+
+        :::info
+        **Additional Context**
+        Provide supplementary information that adds value
+        :::
+
+    - If your page shares the same name as a folder, you can use the DocsCardList component to automatically display card-style links to all files contained within that folder. This creates a dropdown-style navigation menu.
+
+    <DocsCardList />
+
+    <details>
+    <summary>**Click here for the markdown code used for the above examples**</summary>
+    [The content seen in this dropdown would go in here]
+    </details>
+
+    ``````
+
+    </details>
 
 ## Images & Diagrams
 
 Images and diagrams can be valuable, but they can take lots of time and require maintenance. When using images or diagrams, consider how beneficial the visualization will be and how frequently you need to update it. 
 
 - Both Docusaurus and GitHub supports [rendering of Mermaid](https://docusaurus.io/docs/markdown-features/diagrams), feel free to use this for any diagrams. For more information, see the official [GitHub Docs on creating Mermaid diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams).
-
-
-## GitHub Templates
-
-If you are creating a repository from scratch you can use a pre-configured repository template on github.
-
-Insert Instructions for github templates
 
 ## Writing Guidelines
 
@@ -107,7 +191,7 @@ Use an Oxford comma for a list of three or more items.
 |---|---|
 |I had eggs, toast and orange juice for breakfast.|I had eggs, toast, and orange juice for breakfast.|
 
-###UI/Navigation Elements
+### UI/Navigation Elements
 
 When referencing UI elements, have them in **Bold**  
 

@@ -2,6 +2,8 @@
 
 ## Suport Page
 
+A guide for users seeking assistance, reporting issues, or requesting features. This page outlines the primary channels for community support and details how to effectively engage with the project's support system through GitHub Discussions and Issues.
+
 <details>
 <summary>**Click here for our templated support page**</summary>
 
@@ -65,6 +67,8 @@ When participating in our community, please adhere to the following guidelines:
 
 ## Team Page
 
+A showcase of the project's core team members, contributors, and acknowledgments. This page helps users connect with the people behind the project and recognizes those who have made significant contributions to its development.
+
 <details>
 <summary>**Click here for our templated support page**</summary>
 
@@ -110,6 +114,8 @@ When participating in our community, please adhere to the following guidelines:
 </details>
 
 ## Funding Page
+
+A transparent overview of the financial support and organizations that make the project possible. This page acknowledges funding sources, grants, and additional support while providing information about project sustainability and institutional backing.
 
 <details>
 <summary>**Click here for our templated funding page**</summary>
@@ -161,6 +167,8 @@ For more information about our funding or to discuss potential collaborations, p
 
 
 ## Code of Conduct Page
+
+A clear set of guidelines establishing community behavior standards and expectations. This document ensures a respectful, inclusive, and harassment-free environment for all community members while outlining enforcement procedures for maintaining these standards.
 
 <details>
 <summary>**Click here for our code of conduct page**</summary>
@@ -302,6 +310,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 </details>
 
 ## Contribution Page
+
+A detailed guide for potential contributors, outlining how to participate in the project's development. This page provides step-by-step instructions for submitting code changes, best practices for pull requests, and explains the development workflow to help new contributors get started effectively.
 
 <details>
 <summary>**Click here for our code of conduct page**</summary>
