@@ -1,4 +1,6 @@
-<!-- # This is a comment.
+# If we choose to use the codeowners functionality update the file as a .md then uncomment and update the following:
+
+<!--
 # Each line is a file pattern followed by one or more owners.
 
 # These owners will be the default owners for everything in
@@ -75,4 +77,5 @@ apps/ @octocat
 /Standards/    @overture-stack/outreach
 
 # Profile directory
-/profile/      @overture-stack/outreach -->
+/profile/      @overture-stack/outreach
+ -->

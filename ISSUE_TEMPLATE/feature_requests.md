@@ -1,7 +1,11 @@
 ---
-name:  Requests
-about: Overture Request
+name:  Community Requests
+title: "Request - "
+labels: Community Request
+
 ---
+
+<!--- Please provide a descriptive title above -->
 
 ## Summary of request
 Please summarize clearly and concisely what you would like.

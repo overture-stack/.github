@@ -24,6 +24,8 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ## Checklist:
 
+You do not need to fullfill all requirements of this checklist, select all that apply:
+
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
