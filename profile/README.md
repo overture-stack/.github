@@ -3,7 +3,7 @@
 
   <h3>Open-source genomics data platforms</h3>
 
-  <h3>
+  <h4>
     <a href="">Project Site</a> |
     <a href="">Documentation</a> |
     <a href="">Demo Portal</a> |
