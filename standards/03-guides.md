@@ -147,7 +147,7 @@ Clear step-by-step instructions for an initial prerequisites setup (i.e. Using t
 Add support callouts at key points in your guide, especially before complex procedures, after steps where users commonly encounter issues and when introducing advanced concepts:
 
     :::info Need Help?
-    Having trouble? Connect with us through our [community support channels](/community/support).
+    Having trouble? Connect with us through our [community support channels](https://docs.overture.bio/community/support).
     :::
 
 ### Writing Style

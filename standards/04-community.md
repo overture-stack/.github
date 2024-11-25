@@ -59,7 +59,7 @@ When participating in our community, please adhere to the following guidelines:
 2. Provide as much relevant information as possible when asking for help.
 3. Use clear and descriptive titles for your discussions and issues.
 4. Search existing discussions before creating a new one to avoid duplicates.
-5. Follow the GitHub Community Guidelines and abide by our [code of conduct](/community/code-of-conduct).
+5. Follow the GitHub Community Guidelines and abide by our [code of conduct](https://docs.overture.bio/community/code-of-conduct).
 
 ``````
 
@@ -327,7 +327,7 @@ We appreciate your interest in contributing to the Overture project. We are the 
 
 ## Code of Conduct
 
-By participating in this project, you are expected to abide by our [Code of Conduct](/community/code-of-conduct). Please take the time to read it carefully before contributing.
+By participating in this project, you are expected to abide by our [Code of Conduct](https://docs.overture.bio/community/code-of-conduct). Please take the time to read it carefully before contributing.
 
 ## Get Involved
 
