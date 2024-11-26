@@ -1,4 +1,4 @@
-# Usage (WIP)
+# Usage
 
 Covers common usage of the software, allowing developers to see how the software can be used and tested.
 
