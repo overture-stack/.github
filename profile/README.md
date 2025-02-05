@@ -1,42 +1,22 @@
-# Build, Deploy, Discover
+<div align="center">
+  <img width="550" src="Overture_logo.png" alt="overture-logo"/>
 
-<div>
-<img align=left width="120vw" src="https://raw.githubusercontent.com/overture-stack/.github/master/profile/Overture-logo.png" alt="overture-logo"/>
+  <h3>Open-source genomics data platforms</h3>
+
+  <h4>
+    <a href="">Project Site</a> |
+    <a href="">Documentation</a> |
+    <a href="">Demo Portal</a> |
+    <a href="">Quickstart</a> 
+  </h4>
 </div>
 
-**Overture** is a collection of open-source software used to overcome significant
-obstacles in storing, managing, and sharing genome-scale datasets. Overture is
-developed and maintained by the Software Engineering team at the Ontario
-Institute for Cancer Research (OICR). Our vision is to help research,
-healthcare, and patient communities collaborate and advance genomic research by
-providing cutting-edge open source software solutions.
+We build software that enables researchers and the public to access, manage and study large amounts of genomics data.
 
-<div>
-<img width="100%" src="https://raw.githubusercontent.com/overture-stack/.github/master/profile/portalOverview2.0.webp" alt="portal-overview"/>
-</div>
+Central to our work is Overture, our suite of open-source & freely available modular software microservices. Each service has been generalized with narrow responsibilities that combine to form powerful data platforms where researchers can organize, share and explore their genomics data.
 
-- **Genome informatics first:** You can use our solutions for anything, but here
-  at Overture we focus on Genome Informatics. With rapidly expanding datasets at
-  the heart, we build data platforms to gather, organize, and share genomic data
-  in distributed cloud environments.
+By sharing these tools we aim to promote the growth and development of reliable genomic data management systems quickly, flexibly, and at multiple scales.
 
-- **Swappable:** There is no such thing as perfection. Our tools are implemented
-  to be interchangeable from the get-go. You can pick-and-choose from our
-  software stack and simply use the components that best match your use case.
-
-- **An open world:** We are strong believers in open-source software, open
-  science, and open communication. Don’t hesitate to follow our teams activities
-  on GitHub, or contact us from our Slack channel.
-
-- **Closing the loop:** Our team has established a strong foundation in building
-  software solutions for genomic projects, from data generation and submission
-  all the way to dissemination and analysis, leading to a deep understanding of
-  the genomic data lifecycle. The Overture stack contains a wide array of
-  components for cloud infrastructure, data shepherding, and analysis.
-
-As an open-source project, we are continuously refining our software and are
-**[open to contributions](https://github.com/overture-stack/.github/blob/master/CONTRIBUTING.md)** and **[feedback](https://github.com/overture-stack/roadmap/issues/new?assignees=&labels=&projects=&template=Feature_Requests.md)** from
-the community. We invite you to check out our
-**[development goals](https://github.com/overture-stack/.github/blob/master/ROADMAP.MD)**, and if you wish to contact us
-remotely, **[our Slack channel](https://join.slack.com/t/overture-bio/shared_invite/zt-21tdumtdh-9fP1TFeLepK4~Lc377rOYw)**, like our software, will always be open and
-available.
+<div align="center">
+  <img width="100%" src="portal-services.webp" alt="Demo Portal"/>
+ </div>
