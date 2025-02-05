@@ -4,10 +4,10 @@
   <h3>Open-source genomics data platforms</h3>
 
   <h4>
-    <a href="">Project Site</a> |
-    <a href="">Documentation</a> |
-    <a href="">Demo Portal</a> |
-    <a href="">Quickstart</a> 
+<a href="https://www.overture.bio/" target="_blank" rel="noopener noreferrer">Project Site</a> |
+<a href="https://docs.overture.bio/" target="_blank" rel="noopener noreferrer">Documentation</a> |
+<a href="https://demo.overture.bio/" target="_blank" rel="noopener noreferrer">Demo Portal</a> |
+<a href="https://www.overture.bio/getting-started/" target="_blank" rel="noopener noreferrer">Quickstart</a>
   </h4>
 </div>
 
