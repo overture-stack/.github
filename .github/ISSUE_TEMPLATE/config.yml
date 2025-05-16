@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Support
+    url: https://docs.overture.bio/community/support
+    about: Please ask and answer questions here.
+  - name: Private & Business Inquiries 
+    url: contact@overture.bio
+    about: If you have a private inquiry or wish to book a demo email us at contact@overture.bio
+template_order:
+  - bug_report.md
+  - feature_requests.md
+  - custom_template.md
