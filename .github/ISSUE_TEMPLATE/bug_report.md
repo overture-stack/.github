@@ -1,9 +1,8 @@
 ---
 name: Bug report
-about: Report a bug in software development
+about: Report a bug 
 title: "BUG - "
 labels: bug
-assignees: ''
 
 ---
 <!--- Provide a general summary of the issue in the Title above -->

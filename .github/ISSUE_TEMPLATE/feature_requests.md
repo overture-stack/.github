@@ -1,8 +1,8 @@
 ---
-name:  Community Requests
+name:  Feature Requests
+about: Submit a feature request 
 title: "Request - "
-labels: Community Request
-
+label: "Feature"
 ---
 
 <!--- Please provide a descriptive title above -->
