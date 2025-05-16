@@ -1,10 +1,10 @@
 ---
-name:  Community Requests
+name:  Feature Requests
+about: Submit a feature request 
 title: "Request - "
-labels: Community Request
-
+label: "Feature"
 ---
-
+<!-- field:Status:New -->
 <!--- Please provide a descriptive title above -->
 
 ## Summary of request

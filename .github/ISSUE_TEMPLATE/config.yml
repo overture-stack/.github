@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Support
+    url: https://docs.overture.bio/community/support
+    about: Additional support via GitHub Discussions and direct email (contact@overture.bio) for private or business inquiries.
+template_order:
+  - bug_report.md
+  - feature_requests.md
