@@ -1,12 +1,13 @@
 ---
 name: Bug report
-about: Report a bug in software development
+about: Report a bug 
 title: "BUG - "
-labels: bug
-assignees: ''
-
+labels: "Bug"
+projects: ["overture-stack/20"]
 ---
+<!-- field:Status:New -->
 <!--- Provide a general summary of the issue in the Title above -->
+
 
 ## Description
 <!--- Provide a more detailed introduction to the issue itself, and why you consider it to be a bug. What about it is functioning incorrectly or not as expected?-->
