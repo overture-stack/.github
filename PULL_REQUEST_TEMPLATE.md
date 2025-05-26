@@ -1,41 +1,60 @@
-# Pull Request
+<!-- PR Title Should match format:
+#{TicketNumber}: Description of Changes
 
-## Description
+if no ticket number, use `chore:`, `fix:`, `feat:` etc.
 
-Please include a summary of the change and which issue or ticket is being addressed, if any. You may also include relevant motivation and context, as well as list any dependencies that are required for this change.
+Example:
+#123: Add pagination to List Applications endpoint
+-->
 
-Fixes # (issue)
+## Summary
 
-## Type of change
+<!-- High level, short description of work done. 1-2 sentences. -->
 
-Please choose only the relevant options and remove the others.
+## Issues
+- #(issue number)
+- #(issue number)
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+## Description of Changes
+<!-- Describe the changes in your pull request **per service or package**, providing enough context for reviewers.
 
-## How Has This Been Tested?
+Be sure to call out any breaking changes, as well as any special instructions required to run the new code (i.e. New or updated dependencies? `pnpm i`. New migrations to run? `pnpm run migrate-dev`. etc.) 
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+Add a heading for each app/package that you have contributed changes to and list the changes included.
+-->
 
-- [ ] Test A
-- [ ] Test B
+<!-- EXAMPLE START
+General description of the changes in your PR and the functionality it adds.
 
-## Checklist:
+### UI
+- Added a new component `ComponentName` which achieves some functionality.
+  - Description of `ComponentName` and the changes you made to create it
+  - Added package [`package name`](https://link.to/package) to handle something
 
-You do not need to fullfill all requirements of this checklist, select all that apply:
+### Server
+- Added new endpoint `GET /stuff`that does stuff
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have checked my code and corrected any misspellings
 
-## Additional context
+### Special Instructions
+Before running these changes, you will need to ...
 
-Add any other context or screenshots about the pull request here.
+-->
+
+## Readiness Checklist
+
+- [ ] **Self Review**
+  - I have performed a self review of code
+  - I have run the application locally and manually tested the feature
+  - I have checked all updates to correct typos and misspellings
+- [ ] **Formatting**
+  - Code follows the project style guide
+  - Autmated code formatters (ie. Prettier) have been run
+- [ ] **Local Testing**
+  - Successfully built all packages locally
+  - Successfully ran all test suites, all unit and integration tests pass
+- [ ] **Updated Tests**
+  - Unit and integration tests have been added that describe the bug that was fixed or the features that were added
+- [ ] Documentation
+  - All new environment variables added to `.env.schema` file and documented in the README
+  - All changes to server HTTP endpoints have open-api documentation
+  - All new functions exported from their module have TSDoc comment documentation
